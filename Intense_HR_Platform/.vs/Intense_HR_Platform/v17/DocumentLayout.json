@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|c:\\users\\merak\\desktop\\intenseintership\\intense_hr_platform\\intense_hr_platform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|solutionrelative:intense_hr_platform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|c:\\users\\merak\\desktop\\intenseintership\\intense_hr_platform\\intense_hr_platform\\models\\jobcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|solutionrelative:intense_hr_platform\\models\\jobcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|c:\\users\\merak\\desktop\\intenseintership\\intense_hr_platform\\intense_hr_platform\\controllers\\jobcandidateskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|solutionrelative:intense_hr_platform\\controllers\\jobcandidateskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|c:\\users\\merak\\desktop\\intenseintership\\intense_hr_platform\\intense_hr_platform\\services\\jobcandidateskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|solutionrelative:intense_hr_platform\\services\\jobcandidateskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|c:\\users\\merak\\desktop\\intenseintership\\intense_hr_platform\\intense_hr_platform\\services\\ijobcandidateskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|solutionrelative:intense_hr_platform\\services\\ijobcandidateskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|c:\\users\\merak\\desktop\\intenseintership\\intense_hr_platform\\intense_hr_platform\\models\\addjobcandidaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|solutionrelative:intense_hr_platform\\models\\addjobcandidaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|c:\\users\\merak\\desktop\\intenseintership\\intense_hr_platform\\intense_hr_platform\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|solutionrelative:intense_hr_platform\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|c:\\users\\merak\\desktop\\intenseintership\\intense_hr_platform\\intense_hr_platform\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E587738-EE28-431D-B19F-FD05266DC3EB}|Intense_HR_Platform\\Intense_HR_Platform.csproj|solutionrelative:intense_hr_platform\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\appsettings.json",
+              "RelativeDocumentMoniker": "Intense_HR_Platform\\appsettings.json",
+              "ToolTip": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\appsettings.json",
+              "RelativeToolTip": "Intense_HR_Platform\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T12:03:44.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobCandidateSkillController.cs",
+              "DocumentMoniker": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Controllers\\JobCandidateSkillController.cs",
+              "RelativeDocumentMoniker": "Intense_HR_Platform\\Controllers\\JobCandidateSkillController.cs",
+              "ToolTip": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Controllers\\JobCandidateSkillController.cs",
+              "RelativeToolTip": "Intense_HR_Platform\\Controllers\\JobCandidateSkillController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:04:42.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddJobCandidateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Models\\AddJobCandidateRequest.cs",
+              "RelativeDocumentMoniker": "Intense_HR_Platform\\Models\\AddJobCandidateRequest.cs",
+              "ToolTip": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Models\\AddJobCandidateRequest.cs",
+              "RelativeToolTip": "Intense_HR_Platform\\Models\\AddJobCandidateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:01:48.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJobCandidateSkillService.cs",
+              "DocumentMoniker": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Services\\IJobCandidateSkillService.cs",
+              "RelativeDocumentMoniker": "Intense_HR_Platform\\Services\\IJobCandidateSkillService.cs",
+              "ToolTip": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Services\\IJobCandidateSkillService.cs",
+              "RelativeToolTip": "Intense_HR_Platform\\Services\\IJobCandidateSkillService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:32:42.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Intense_HR_Platform\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Models\\Skill.cs",
+              "RelativeToolTip": "Intense_HR_Platform\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:18:14.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobCandidate.cs",
+              "DocumentMoniker": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Models\\JobCandidate.cs",
+              "RelativeDocumentMoniker": "Intense_HR_Platform\\Models\\JobCandidate.cs",
+              "ToolTip": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Models\\JobCandidate.cs",
+              "RelativeToolTip": "Intense_HR_Platform\\Models\\JobCandidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:18:00.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Intense_HR_Platform\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Intense_HR_Platform\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:15:46.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobCandidateSkillService.cs",
+              "DocumentMoniker": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Services\\JobCandidateSkillService.cs",
+              "RelativeDocumentMoniker": "Intense_HR_Platform\\Services\\JobCandidateSkillService.cs",
+              "ToolTip": "C:\\Users\\merak\\Desktop\\IntenseIntership\\Intense_HR_Platform\\Intense_HR_Platform\\Services\\JobCandidateSkillService.cs",
+              "RelativeToolTip": "Intense_HR_Platform\\Services\\JobCandidateSkillService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T06:39:16.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
